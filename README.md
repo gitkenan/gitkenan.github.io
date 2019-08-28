@@ -7,4 +7,7 @@ with some rudimentary elements in HTML, CSS and JavaScript.
 ```
 gitkenan.github.io
 ```
-Credits for initial template to HTML5up.net
+
+## Authors
+
+* Initial template taken from HTML5up.net.
